@@ -7,6 +7,6 @@ spec:
   selector:
     component: web
   ports:
-    - port:
-      targetPort:
-      containerPort: 
+    - port: 3000
+      targetPort: 3000
+      
